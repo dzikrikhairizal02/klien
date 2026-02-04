@@ -370,7 +370,3 @@ This project is for **Klien** - Premium Architectural Lighting Brand.
 - **Design Concept**: Based on brand brief for Klien
 
 ---
-
-**Built with ❤️ using Z.ai Code** - AI-powered development assistant
-
-For further assistance, visit [chat.z.ai](https://chat.z.ai)
